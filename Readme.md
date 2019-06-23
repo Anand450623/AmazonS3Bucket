@@ -1,0 +1,1 @@
+This folder contains sample java project to get started with Amazon S3 bucket services.
